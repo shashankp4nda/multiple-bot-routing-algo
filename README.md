@@ -1,9 +1,9 @@
-## multiple-bot-routing-algo
+# multiple-bot-routing-algo
 The ai solution for Flipkart Grid 3.0 challenge. 
 Python program to route multiple bots to multiple destination without having them obstruct each other 
 (Heuristic approach) 
 
-# Working of the code 
+## Working of the code 
 
 ![main_py_–_img_1_png_2021-09-15_08-24-15_SparkVideo](https://user-images.githubusercontent.com/67699520/133364039-20859ec1-b853-4eca-9b2f-6e25397f9e13.gif)
 
