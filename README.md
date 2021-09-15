@@ -3,7 +3,7 @@ The ai solution for Flipkart Grid 3.0 challenge.
 Python program to route multiple bots to multiple destination without having them obstruct each other 
 (Heuristic approach) 
 
-### Probkem statement 
+### Problem statement 
 
 ![img_1](https://user-images.githubusercontent.com/67699520/133365541-541707d1-dc4b-404b-a0f4-254df62aff79.png)
 
