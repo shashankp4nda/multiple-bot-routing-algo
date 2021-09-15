@@ -3,7 +3,14 @@ The ai solution for Flipkart Grid 3.0 challenge.
 Python program to route multiple bots to multiple destination without having them obstruct each other 
 (Heuristic approach) 
 
-## Working of the code 
+### Probkem statement 
+
+![img_1](https://user-images.githubusercontent.com/67699520/133365541-541707d1-dc4b-404b-a0f4-254df62aff79.png)
+
+The Problem we wish to solve is developing a routing algorithm which will route the bots of a specific color to its specific destination by color. 
+Their routing must be performed smoothly without producing any obstruction to each other. 
+
+### Working of the code 
 
 ![mainpy-img-1png-2021-09-15-08-24-15_Fq16iHkR_MomF_SparkVideo](https://user-images.githubusercontent.com/67699520/133365341-5a348752-273e-4fde-930c-98be3fef4dae.gif)
 
