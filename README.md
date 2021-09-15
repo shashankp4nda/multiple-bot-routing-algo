@@ -5,7 +5,7 @@ Python program to route multiple bots to multiple destination without having the
 
 ## Working of the code 
 
-![main_py_–_img_1_png_2021-09-15_08-24-15_SparkVideo](https://user-images.githubusercontent.com/67699520/133364039-20859ec1-b853-4eca-9b2f-6e25397f9e13.gif)
+![mainpy-img-1png-2021-09-15-08-24-15_Fq16iHkR_MomF_SparkVideo](https://user-images.githubusercontent.com/67699520/133365341-5a348752-273e-4fde-930c-98be3fef4dae.gif)
 
 The 'generate' Function can be used to place walls and wherever the user wishes to do so. 
 
